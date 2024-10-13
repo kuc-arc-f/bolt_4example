@@ -6,7 +6,7 @@
  
  date    : 2024/10/12
 
- update : 2024/10/13
+ update : 2024/10/14
 
 ***
 
@@ -34,6 +34,7 @@ yarn dev
 * plan1 : new schedule app,  bolt.new generate
 * plan2 : server Side Save , Data
 * todo_1: todo app, bolt.new generate
+* bookmark1: bookmark edit
 
 *** 
 # License
