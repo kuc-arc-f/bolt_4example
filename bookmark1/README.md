@@ -20,8 +20,8 @@ bookmark アプリ  shadcn/ui React 作成したいです。入力項目は 下�
 タイトル: Inputタグ type=text
 URL: Inputタグ type=text
 
-* bookmarkの編集、削除を追加したいです。
-* bookmarkの検索を、追加したいです。
+・bookmarkの編集、削除を追加したいです。
+・bookmarkの検索を、追加したいです。
 
 ```
 ***
