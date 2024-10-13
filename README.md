@@ -32,6 +32,7 @@ yarn dev
 ### example
 
 * plan1 : new schedule app,  bolt.new generate
+* plan2 : server Side Save , Data
 * todo_1: todo app, bolt.new generate
 
 *** 
