@@ -6,7 +6,7 @@
  
  date    : 2024/10/12
 
- update :
+ update : 2024/10/13
 
 ***
 
@@ -32,6 +32,7 @@ yarn dev
 ### example
 
 * plan1 : new schedule app,  bolt.new generate
+* todo_1: todo app, bolt.new generate
 
 *** 
 # License
