@@ -35,6 +35,7 @@ yarn dev
 * plan2 : server Side Save , Data
 * todo_1: todo app, bolt.new generate
 * bookmark1: bookmark edit
+* cms1: CMS editor , bolt.new generate
 
 *** 
 # License
