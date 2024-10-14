@@ -13,6 +13,8 @@
 todo Data, Server Side Save 
 
 * bun: 1.1.26,  express.js + shadcn/ui
+* Full Stack typescript
+
 ***
 ### build
 
