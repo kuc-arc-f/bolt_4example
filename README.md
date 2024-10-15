@@ -31,10 +31,12 @@ yarn dev
 ***
 ### example
 
-* plan1 : new schedule app,  bolt.new generate
-* plan2 : server Side Save , Data
+* plan1 : Schedule app,  bolt.new generate
+* plan2 : server Side Save , plan Data
 * todo_1: todo app, bolt.new generate
+* todo_2: server Side Save , todo Data
 * bookmark1: bookmark edit
+* bookmark2: server Side Save , bookmark Data
 * cms1: CMS editor , bolt.new generate
 
 *** 
