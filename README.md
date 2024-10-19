@@ -6,7 +6,7 @@
  
  date    : 2024/10/12
 
- update : 2024/10/15 
+ update : 2024/10/15
 
 ***
 
@@ -43,6 +43,11 @@ yarn dev
 # License
 
 * MIT
+
+***
+### ChangeLog
+
+* VER_0_9_1: new
 
 ***
 
