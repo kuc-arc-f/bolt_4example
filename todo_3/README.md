@@ -4,13 +4,16 @@
 
  Author  :
  
- date    : 2024/10/18
+ date    : 2024/10/17
 
- update :
+ update : 2024/10/18
 
 ***
 
-postgres + Express.js + React
+postgres + React , TODO app
+
+* bun: 1.1.26, Express.js + shadcn/ui
+* Full Stack Typescript
 
 ***
 ### Setup

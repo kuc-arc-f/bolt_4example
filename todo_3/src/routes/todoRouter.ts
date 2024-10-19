@@ -1,6 +1,5 @@
 import express from 'express';
 const router = express.Router();
-import axios from 'axios';
 import todoData from './todoData';
 import LibPg from '../lib/LibPg';
 
@@ -134,21 +133,6 @@ router.post('/update', async function(req: any, res: any) {
     }
     const body = req.body;
 console.log(body);
-//return res.json(retObj);
-    /*
-    const query = `
-    INSERT INTO public."Todo" (title, content, "userId", complete, "createdAt", "updatedAt")
-    VALUES ($1, $2, $3, $4, current_timestamp, current_timestamp)
-    RETURNING id;
-    `;
-    const now = new Date();
-    const values = [
-    body.text,
-    "",
-    0,
-    0,
-    ];
-    */
     //
     const query = `
     UPDATE public."Todo"
@@ -164,16 +148,6 @@ console.log(body);
     } else {
       console.log(`TODO with ID ${body.id} updated successfully.`);
     }
-    /*
-    const query = `
-    UPDATE todos
-    SET title = $1, updated_at = $2
-    WHERE id = $3;
-  `;
-    const values = [title, updatedAt, id];
-    const result = await client.query(query, values);
-    */
-
     retObj.ret = 200;
     retObj.data = body;    
     return res.json(retObj);
