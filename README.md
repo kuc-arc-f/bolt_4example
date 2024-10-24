@@ -39,6 +39,7 @@ yarn dev
 * bookmark2: server Side Save , bookmark Data
 * cms1: CMS editor , bolt.new generate
 * form_test1: form edit , claude.ai generate
+* form_test2: form validate , claude.ai generate
 
 *** 
 # License
